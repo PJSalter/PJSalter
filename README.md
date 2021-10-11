@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter(He/Him), i'm an Artist and aspiring Software Developer :star_struck:
+# <h1> 👋 Hi, I’m Peter(He/Him) and I'm an Artist and aspiring Software Developer :star_struck: 
 - 👀 I’m interested in painting :paintbrush: and drawing since a very young age :artist: :art: going through long adventurous walks :walking_man: :mountain: and playing the latest gaming tech :video_game: :joystick: I collect/read a variety of Graphic Novels/Comics :books: Watching new films and TV Series :clapper: :tv: :film_projector: spend a lot of time on social media :iphone: i'm a cat lover :cat: :cat2:  
 - 🌱 I’m currently learning HTML, CSS and JavaScript :robot: willing to learn and practice with more languages in the future to come :sparkles:
 - 💞️ I’m looking to collaborate on this coding journey by learning new techniques from others as well as helping on what I have learnt :technologist: willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I will collaborate on HTML, CSS and JavaScript and eager to expand :dizzy:
