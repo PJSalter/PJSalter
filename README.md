@@ -14,9 +14,11 @@
   
 ## I am currently learning:
   
+- ### I'm a part of the (FAC 24 Cohort)Founders and Coders Boot Camp 2022 
+  
 - ### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: willing to learn and practice with more languages in the future to come :sparkles:
 
-- ### 💞️ I’m looking to collaborate on this coding journey by learning new techniques from others as well as helping on what I have learnt :technologist: willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I will collaborate on HTML, CSS and JavaScript and eager to expand :dizzy:
+- ### 💞️ I’m looking to collaborate and grow in my coding journey :technologist: I am willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I'm eager to expand :dizzy:
   
 - ## 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/)
 
