@@ -11,7 +11,7 @@
 - ### Playing the latest gaming tech :video_game: :joystick: 
 - ### I collect and read a variety of Graphic Novels/Comics :books: 
 - ### Watching new films and TV Series :clapper: :tv: :film_projector: 
-- ### I Spend a lot of time on social media :iphone: 
+- ### I Spend a lot of time on Instagram :iphone: 
 - ### I'm a cat lover :cat: :cat2:  
   
 ## I am currently learning:
@@ -22,7 +22,7 @@
 
 - ### 💞️ I’m looking to collaborate and grow in my coding journey :technologist: I am willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I'm eager to expand :dizzy:
   
-- ## 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/)
+- ## 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/) and [email](psalter88@googlemail.com) 📧
 
 <!---
 PJSalter/PJSalter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
