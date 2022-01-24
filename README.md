@@ -1,4 +1,6 @@
-# <h1> 👋 Hi, I’m Peter(He/Him) and I'm an Artist and pursuing a Software Developer path within the tech world:star_struck: 
+# <h1> 👋 Hi, I’m Peter(He/Him) 
+### I'm an Artist and pursuing a Software Developer path within the tech world :star_struck: 
+  
   
 ![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
   
@@ -14,7 +16,7 @@
   
 ## I am currently learning:
   
-- ### I'm a part of the (FAC 24 Cohort)Founders and Coders Boot Camp 2022 
+- ### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London 
   
 - ### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: willing to learn and practice with more languages in the future to come :sparkles:
 
