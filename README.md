@@ -12,7 +12,7 @@
    
  | HTML | CSS | JavaScript |
  | :-------: | :-------: | :-------: |
- | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="220" height="200"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="260" height="230"> | <img src="https://user-images.githubusercontent.com/45575016/151710554-fdba34fe-d413-4c65-8c44-277684179f4c.png" alt="JavaScript-Logo-profile"  width="360" height="200"> |
+ | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="220" height="200"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="260" height="230"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="220" height="200"> |
    
   </div>
   
@@ -30,6 +30,7 @@
 - ### I'm a cat lover :cat: :cat2:  
   
 ### 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/) and [email](mailto:psalter88@googlemail.com) 📧
+
 
 <!---
 PJSalter/PJSalter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
