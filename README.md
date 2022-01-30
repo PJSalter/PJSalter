@@ -18,7 +18,7 @@
    
  | HTML | CSS | JavaScript |
  | :-------: | :-------: | :-------: |
- | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="220" height="200"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="260" height="230"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="220" height="200"> |
+ | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="170" height="150"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="200" height="180"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="180" height="160"> |
    
   </div>
   
@@ -35,7 +35,7 @@
 - ### I Spend a lot of time on Instagram :iphone: 
 - ### I'm a cat lover :cat: :cat2:  
   
-<h1>My Sats:</h1>
+<h1>My Stats:</h1>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide=stars,contribs" width="500" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=merko&layout=compact" alt="TopLangs" width="400" />
