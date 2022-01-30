@@ -37,7 +37,7 @@
   
 ## My Sats:
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide=stars,contribs" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=merko&layout=compact" alt="TopLangs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide=stars,contribs" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=merko&layout=compact" alt="TopLangs">
   
 ### 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/) and [email](mailto:psalter88@googlemail.com) 📧
 
