@@ -4,12 +4,19 @@
   
 ![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
   
-## I am currently learning:
+## Learning and Languages:
   
 - ### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London 
   
+ <div align="center">
+   
+ | HTML | CSS | JavaScript |
+ | :-------: | :-------: | :-------: |
+ | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="220" height="200"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="260" height="230"> | <img src="https://user-images.githubusercontent.com/45575016/151710554-fdba34fe-d413-4c65-8c44-277684179f4c.png" alt="JavaScript-Logo-profile"  width="360" height="200"> |
+   
+  </div>
+  
 - ### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: willing to learn and practice with more languages in the future to come :sparkles:
-
 - ### 💞️ I’m looking to collaborate and grow in my coding journey :technologist: I am willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I'm eager to expand :dizzy:
   
 ## My Interests:
