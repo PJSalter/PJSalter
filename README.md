@@ -12,36 +12,36 @@
   
 ## Learning and Languages:
   
-- ### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London 
+- #### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London 
   
  <div align="center">
    
  | HTML | CSS | JavaScript |
  | :-------: | :-------: | :-------: |
- | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="170" height="150"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="200" height="180"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="180" height="160"> |
+ | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="140" height="130"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="170" height="155"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="160" height="140"> |
    
   </div>
   
-- ### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: willing to learn and practice with more languages in the future to come :sparkles:
-- ### 💞️ I’m looking to collaborate and grow in my coding journey :technologist: I am willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I'm eager to expand :dizzy:
+- #### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: willing to learn and practice with more languages in the future to come :sparkles:
+- #### 💞️ I’m looking to collaborate and grow in my coding journey :technologist: I am willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I'm eager to expand :dizzy:
   
 ## My Interests:
 
-- ### I’m interested in painting :paintbrush: and drawing since a very young age :artist: :art: 
-- ### I like going through long adventurous walks :walking_man: :mountain: 
-- ### Playing the latest gaming tech :video_game: :joystick: 
-- ### I collect and read a variety of Graphic Novels/Comics :books: 
-- ### Watching new films and TV Series :clapper: :tv: :film_projector: 
-- ### I Spend a lot of time on Instagram :iphone: 
-- ### I'm a cat lover :cat: :cat2:  
+- #### I’m interested in painting :paintbrush: and drawing since a very young age :artist: :art: 
+- #### I like going through long adventurous walks :walking_man: :mountain: 
+- #### Playing the latest gaming tech :video_game: :joystick: 
+- #### I collect and read a variety of Graphic Novels/Comics :books: 
+- #### Watching new films and TV Series :clapper: :tv: :film_projector: 
+- #### I Spend a lot of time on Instagram :iphone: 
+- #### I'm a cat lover :cat: :cat2:  
   
-<h1>My Stats:</h1>
+<h2>My Stats:</h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide=stars,contribs" width="500" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=merko&layout=compact" alt="TopLangs" width="400" />
   </p>
   
-### 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/) and [email](mailto:psalter88@googlemail.com) 📧
+## 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/) and [email](mailto:psalter88@googlemail.com) 📧
 
 
 <!---
