@@ -22,7 +22,7 @@
    
   </div>
   
-- #### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: willing to learn and practice with more languages in the future to come :sparkles:
+- #### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: My ambition is to become a Full Stack Developer and I'm excited to learn new languages such as React and Python in the future :sparkles:
 - #### 💞️ I’m looking to collaborate and grow in my coding journey :technologist: I am willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I'm eager to expand :dizzy:
   
 ## My Interests:
