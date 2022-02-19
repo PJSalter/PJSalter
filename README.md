@@ -22,8 +22,8 @@
    
   </div>
   
-- #### 🌱 I’m currently learning HTML, CSS and JavaScript :robot: My ambition is to become a Full Stack Developer and I'm excited to learn new languages such as React and Python in the future :sparkles:
-- #### 💞️ I’m looking to collaborate and grow in my coding journey :technologist: I am willing to work with others on new and exciting projects that will make the digital age a better place :raised_hands: I'm eager to expand :dizzy:
+- #### 💻 👨‍🎓 I’m currently learning HTML, CSS and JavaScript :robot: My ambition is to become a Full Stack Developer and I'm excited to learn new languages such as React and Python in the future :sparkles:
+- #### 👀 🤝 I’m looking to collaborate throughout my coding journey :technologist: I'm interested in working on unique projects that will make the digital age a better place :raised_hands: I'm eager to expand my tech network :dizzy:
   
 ## My Interests:
 
@@ -31,8 +31,7 @@
 - #### I like going through long adventurous walks :walking_man: :mountain: 
 - #### Playing the latest gaming tech :video_game: :joystick: 
 - #### I collect and read a variety of Graphic Novels/Comics :books: 
-- #### Watching new films and TV Series :clapper: :tv: :film_projector: 
-- #### I Spend a lot of time on Instagram :iphone: 
+- #### Watching new films and TV Series :clapper: :tv: :film_projector:  
 - #### I'm a cat lover :cat: :cat2:  
   
 <h2>My Stats:</h2>
