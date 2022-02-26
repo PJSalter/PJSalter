@@ -35,14 +35,14 @@
                       
   ```
   
-## My Interests:
+### My Interests:
 
-- #### I’m interested in painting :paintbrush: and drawing since a very young age :artist: :art: 
-- #### I like going through long adventurous walks :walking_man: :mountain: 
-- #### Playing the latest gaming tech :video_game: :joystick: 
-- #### I collect and read a variety of Graphic Novels/Comics :books: 
-- #### Watching new films and TV Series :clapper: :tv: :film_projector:  
-- #### I'm a cat lover :cat: :cat2:  
+- ###### I’m interested in painting :paintbrush: and drawing since a very young age :artist: :art: 
+- ###### I like going through long adventurous walks :walking_man: :mountain: 
+- ###### Playing the latest gaming tech :video_game: :joystick: 
+- ###### I collect and read a variety of Graphic Novels/Comics :books: 
+- ###### Watching new films and TV Series :clapper: :tv: :film_projector:  
+- ###### I'm a cat lover :cat: :cat2:  
   
 <h2>My Stats:</h2>
 <p align="center">
