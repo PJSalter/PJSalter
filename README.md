@@ -42,6 +42,8 @@
      return result;
      };
   
+  console.log(myInterests());
+  
 // result : [
   'Painting🎨',          '🔥',
   'Adventurous walks🥾', '🔥',
