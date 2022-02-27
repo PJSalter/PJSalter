@@ -22,19 +22,12 @@
    
   </div>
   
+  - ###### 💻 👨‍🎓 I’m currently learning HTML, CSS and JavaScript :robot: My ambition is to become a Full Stack Developer and I'm excited to learn new languages such as React and Python in the future :sparkles:
+- ###### 👀 🤝 I’m looking to collaborate throughout my coding journey :technologist: I'm interested in working on unique projects that will make the digital age a better place :raised_hands: I'm eager to expand my tech network :dizzy:
+  
   
    ```js
-      const myGoals = () => {
-      let independentProject = "PokeDex Project";
-      let currentLanguages = "HTML, CSS and JS";
-      let presentSchedule = "Learning Integration Testing and Test-driven development(TDD)";
-      let collaborate = "expanding my tech network by pair programming with like minded coders";
-      let plan = "Completing Founders and Coders full-time Boot Camp training and gaining an Apprenticeship";
-      let future = "My ambition is to become a Full Stack Developer";
-      };
-                      
-  ```
-  ```js
+  
      const myInterests = () => {
      let hobbies = ['Painting🎨', 'Adventurous walks🥾', 'Coding🧩', 'Gaming🎮', 'comics📚', 'Movies📽️', 'Cat😻'];
      let result = hobbies.flatMap(inspire => [inspire, '🔥']);
@@ -44,7 +37,7 @@
   
   console.log(myInterests());
   
-// result : [
+  // result : [
   'Painting🎨',          '🔥',
   'Adventurous walks🥾', '🔥',
   'Coding🧩',            '🔥',
@@ -53,7 +46,7 @@
   'Movies📽️',            '🔥',
   'Cat😻',               '🔥',
   '🐝'
-]
+  ]
   
   ```
   
