@@ -6,6 +6,7 @@
   
   <div align="right">
   
+  [![Codewars](https://www.codewars.com/users/PJSalter/badges/micro)](https://www.codewars.com/users/PJSalter) 
   ![Profile Views](https://komarev.com/ghpvc/?username=PJSalter&color=blueviolet&style=plastic)
     
   </div>
