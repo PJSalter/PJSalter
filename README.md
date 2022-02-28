@@ -5,9 +5,9 @@
 ![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
   
   <div align="right">
-  
-  [![Codewars](https://www.codewars.com/users/PJSalter/badges/micro)](https://www.codewars.com/users/PJSalter) 
-  ![Profile Views](https://komarev.com/ghpvc/?username=PJSalter&color=blueviolet&style=plastic)
+    
+  [![Codewars](https://www.codewars.com/users/PJSalter/badges/large)](https://www.codewars.com/users/PJSalter) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    ![Profile Views](https://komarev.com/ghpvc/?username=PJSalter&color=blueviolet&style=plastic)
     
   </div>
   
