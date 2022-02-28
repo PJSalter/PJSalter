@@ -6,8 +6,7 @@
   
   <div align="right">
     
-  [![Codewars](https://www.codewars.com/users/PJSalter/badges/large)](https://www.codewars.com/users/PJSalter) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    ![Profile Views](https://komarev.com/ghpvc/?username=PJSalter&color=blueviolet&style=plastic)
+  [![Codewars](https://www.codewars.com/users/PJSalter/badges/large)](https://www.codewars.com/users/PJSalter) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=PJSalter&color=blueviolet&style=plastic)
     
   </div>
   
