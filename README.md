@@ -12,7 +12,7 @@
   
 ## Learning and Languages:
   
-- #### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London 
+- #### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in Lond!
   
  <div align="center">
    
@@ -22,11 +22,16 @@
    
   </div>
   
-  - ###### 💻 👨‍🎓 I’m currently learning HTML, CSS and JavaScript :robot: My ambition is to become a Full Stack Developer and I'm excited to learn new languages such as React and Python in the future :sparkles:
-- ###### 👀 🤝 I’m looking to collaborate throughout my coding journey :technologist: I'm interested in working on unique projects that will make the digital age a better place :raised_hands: I'm eager to expand my tech network :dizzy:
+- ###### 🧑‍🎓 🧑‍💻 Learning HTML, CSS and JavaScript.
+  
+- ###### 🧪 Currently learning Integration Testing and Test-driven development(TDD) and creating side project PJS Pokedex ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) .
+  
+- ###### 🤝 👀 Expanding my tech network by pair programming with like minded coders.
+  
+- ###### 🧭 🌈 💻 🏆 Aspire to become a Full Stack Developer.
   
   
-   ```js
+  ```js
   
      const myInterests = () => {
      let hobbies = ['Painting🎨', 'Adventurous walks🥾', 'Coding🧩', 'Gaming🎮', 'comics📚', 'Movies📽️', 'Cat😻'];
