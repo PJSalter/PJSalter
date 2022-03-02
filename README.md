@@ -14,7 +14,7 @@
   
   - ###### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London!
   
-  - ###### 🧑‍🎓 🧑‍💻 Learning HTML, CSS and JavaScript.
+  - ###### 🧑‍🎓 🧑‍💻 Working on my Frontend development skills with HTML, CSS and JavaScript.
   
   
  <div align="center">
