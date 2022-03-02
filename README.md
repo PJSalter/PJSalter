@@ -12,7 +12,10 @@
   
 ## Learning and Languages:
   
-- #### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in Lond!
+  - ###### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London!
+  
+  - ###### 🧑‍🎓 🧑‍💻 Learning HTML, CSS and JavaScript.
+  
   
  <div align="center">
    
@@ -21,8 +24,6 @@
  | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="105" height="97"> |
    
   </div>
-  
-- ###### 🧑‍🎓 🧑‍💻 Learning HTML, CSS and JavaScript.
   
 - ###### 🧪 Currently learning Integration Testing and Test-driven development(TDD) and creating side project PJS Pokedex ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) .
   
