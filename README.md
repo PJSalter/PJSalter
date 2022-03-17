@@ -25,7 +25,7 @@
    
   </div>
   
-- ###### 🧪 Currently learning Integration Testing and Test-driven development(TDD) and creating side project PJS Pokedex ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) .
+- ###### 🧪 Currently Collaborated on the unit testing project named [Binge-List](https://github.com/AsmahanM/FAC-To-Do-Project) and creating a side project [PJS Pokedex](https://github.com/PJSalter/pjs-pokedex-gaming-api) which is in progress ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) .
   
 - ###### 🤝 👀 Expanding my tech network by pair programming with like minded coders.
   
