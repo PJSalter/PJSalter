@@ -1,5 +1,5 @@
 # <h1> 👋 Hi, I’m Peter(He/Him) 
-### I'm an Artist and pursuing a Software Developer path within the tech world :star_struck: 
+### I'm an Artist and Software Developer within the tech world :star_struck: 
   
   
 ![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
