@@ -27,7 +27,7 @@
   
 - ###### 🧪 Currently Collaborated on 🥤 [Binge-List](https://github.com/AsmahanM/FAC-To-Do-Project) 🍿 and creating a side project [PJS Pokedex](https://github.com/PJSalter/pjs-pokedex-gaming-api) ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
   
-. ###### :paint: Currently working on developing my Final Project, Paintbox :art:
+. 🧑‍🎨: Currently working on developing my Final Project, Paintbox :art:
   
 - ###### 🤝 👀 Expanding my tech network by pair programming with like minded coders.
   
