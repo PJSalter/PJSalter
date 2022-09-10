@@ -12,9 +12,9 @@
   
 ## Learning and Languages:
   
-  - ###### I'm studying at [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp, based in London!
+  - ###### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Boot Camp programme, based in London!
   
-  - ###### 🧑‍🎓 🧑‍💻 Working on my Frontend development skills with HTML, CSS and JavaScript.
+  - ###### 🧑‍🎓 🧑‍💻 Working on my Frontend development skills with HTML, CSS, JavaScript, typescript, React, next.js, styled-components.
   
   
  <div align="center">
