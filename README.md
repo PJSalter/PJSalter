@@ -22,8 +22,10 @@
  | HTML | CSS | JavaScript |
  | :-------: | :-------: | :-------: |
  | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="105" height="97"> |
-   
-  </div>
+ | Ruby | Java | TypeScript |
+ | <img src="https://user-images.githubusercontent.com/45575016/193135020-7032dfd0-c047-400e-b2f3-9eec4e63b7cb.png" alt="Ruby" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/193135760-ba84fd0b-62cd-4a28-bb16-1f04883b6293.png" alt="Java"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/193136108-3d56acbd-c527-43fe-95ae-f947f895bb91.png" alt="TypeScript" width="105" height="97"> |
+
+   </div>
   
 - ###### 🧪  Collaborated on 🥤 [Binge-List](https://github.com/AsmahanM/FAC-To-Do-Project) 🍿 and creating a side project [PJS Pokedex](https://github.com/PJSalter/pjs-pokedex-gaming-api) ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
   
