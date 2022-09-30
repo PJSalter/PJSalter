@@ -24,6 +24,8 @@
  | <img src="https://user-images.githubusercontent.com/45575016/151708924-afc4389a-50ae-402a-8819-3e217c06aac6.png" alt="html5" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/151708962-5b318974-1158-4c5f-a5b4-3b7f0e685252.png" alt="css"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/151711356-90b786ee-0d46-41de-9f92-193356e24728.png" alt="logo-js" width="105" height="97"> |
  | Ruby | Java | TypeScript |
  | <img src="https://user-images.githubusercontent.com/45575016/193135020-7032dfd0-c047-400e-b2f3-9eec4e63b7cb.png" alt="Ruby" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/193135760-ba84fd0b-62cd-4a28-bb16-1f04883b6293.png" alt="Java"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/193136108-3d56acbd-c527-43fe-95ae-f947f895bb91.png" alt="TypeScript" width="105" height="97"> |
+ | React | NextJS | PostgreSQL |
+ | <img src="https://user-images.githubusercontent.com/45575016/193322352-f6827714-b388-4aea-b9cc-461a77b7e9ed.png" alt="React" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/193322558-88507e27-cda0-4e52-a9f0-62f5490f5757.png" alt="NextJS"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/193322776-81d50f9a-13bc-48d8-8666-9ba29167dc9f.png" alt="PostgreSQL" width="105" height="97"> |
 
    </div>
   
