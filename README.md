@@ -28,8 +28,11 @@
  | <img src="https://user-images.githubusercontent.com/45575016/193694083-f9d000c4-733b-4687-a2b4-497da324ef28.png" alt="Node.js" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/193694280-a04d1bd2-db03-4fc7-bab2-3dacda478c91.png" alt="ExpressJS"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/193694471-e6af73fe-ffb9-4d3d-8018-d2d0bf63144b.png" alt="Styled Components" width="105" height="97"> |
  | React | NextJS | PostgreSQL |
  | <img src="https://user-images.githubusercontent.com/45575016/193322352-f6827714-b388-4aea-b9cc-461a77b7e9ed.png" alt="React" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/193322558-88507e27-cda0-4e52-a9f0-62f5490f5757.png" alt="NextJS"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/193322776-81d50f9a-13bc-48d8-8666-9ba29167dc9f.png" alt="PostgreSQL" width="105" height="97"> |
- 
-   </div>
+ | Jest | Cypress | Playwright |
+ | <img src="https://user-images.githubusercontent.com/45575016/193695691-050db76c-f0d3-4289-931f-9f32067badb7.png" alt="Jest" width="95" height="85"> | <img src="https://user-images.githubusercontent.com/45575016/193696473-53c5f2ac-bba5-450e-9326-15aea44f22b2.png" alt="Cypress"  width="115" height="100"> | <img src="https://user-images.githubusercontent.com/45575016/193695992-e7e993ef-043d-4885-b3d2-385e99513411.png" alt="Playwright" width="105" height="97"> |
+
+</div>
+     
   
 - ###### 🧪  Collaborated on 🥤 [Binge-List](https://github.com/AsmahanM/FAC-To-Do-Project) 🍿 and creating a side project [PJS Pokedex](https://github.com/PJSalter/pjs-pokedex-gaming-api) ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
   
