@@ -34,13 +34,17 @@
 </div>
      
   
-- ###### 🧪  Collaborated on 🥤 [Binge-List](https://github.com/AsmahanM/FAC-To-Do-Project) 🍿 and creating a side project [PJS Pokedex](https://github.com/PJSalter/pjs-pokedex-gaming-api) ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
-  
-- ###### 🧑‍🎨 Completed my Final Project of Paintbox :art:
-  
-- ###### 🤝 👀 Expanding my tech network by pair programming with like minded coders.
-  
-- ###### 🧭 🌈 💻 🏆 Aspire to become a Full Stack Developer.
+- ###### ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
+
+#### Welcome to my Github profile!
+
+#### I am a Full Stack Developer who is passionate about creating meaningful projects that uplift and inspire people. With my creativity and tech skills, I strive to make a positive impact in the world. My latest projects, Paintbox and Alis Learning, are examples of my commitment to using technology to make a difference in people's lives.
+
+#### I am constantly expanding my knowledge and skills, always eager to learn new technologies and improve my current ones. Pair programming with like-minded coders is one of my favorite ways to network and enhance my skills.
+
+#### As a caring and compassionate individual, I believe in the power of empathy and open communication. I strive to be a supportive team member, always willing to lend a hand and work together towards a common goal.
+
+#### Thank you for stopping by my profile. Let's collaborate and create something amazing together! 🧭 🌈 💻 🏆
   
   
   ```js
