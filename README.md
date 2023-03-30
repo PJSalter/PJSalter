@@ -1,7 +1,4 @@
-# <h1> 👋 Hi, I’m Peter(He/Him) 
-### I'm an Artist and Software Developer within the tech world :star_struck: 
-  
-  
+
 ![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
   
   <div align="center">
@@ -33,10 +30,8 @@
 
 </div>
      
-  
-- ###### ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
 
-#### Welcome to my Github profile!
+#### Welcome to my Github profile! ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
 
 #### I am a Full Stack Developer who is passionate about creating meaningful projects that uplift and inspire people. With my creativity and tech skills, I strive to make a positive impact in the world. My latest projects, Paintbox and Alis Learning, are examples of my commitment to using technology to make a difference in people's lives.
 
