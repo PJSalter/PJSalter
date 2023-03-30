@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/45575016/228986751-30479368-93bb-456d-9cff-d41382230af6.png" alt="[Pjs_SOFTWARE_DEVELOPER_Logo" width="200"/>
+</div>
+
 
 ![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
   
