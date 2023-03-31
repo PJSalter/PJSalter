@@ -71,6 +71,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=merko&layout=compact" alt="TopLangs" width="400" />
   </p>
   
+</div>
   
   ```js
   
@@ -100,7 +101,7 @@
   
 ## 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/) and [email](mailto:psalter88@googlemail.com) 📧
 
-</div>
+
 
 
 <!---
