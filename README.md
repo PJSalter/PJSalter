@@ -29,10 +29,13 @@
 | HTML5 | <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> | CSS3 | <img src="https://img.icons8.com/color/24/000000/css3.png"/> | JavaScript | <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> |
 | Node.js | <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> | TypeScript | <img src="https://img.icons8.com/color/24/000000/typescript.png"/> | Express.js | <img src="https://user-images.githubusercontent.com/45575016/229018628-79534351-8e02-4031-ad04-bca07553ddea.png" width="24" height="24"/> |
 | React.js | <img src="https://img.icons8.com/color/24/000000/react-native.png"/> | Next.js | <img src="https://user-images.githubusercontent.com/45575016/229018225-6b443c6b-f29a-42ec-b1e3-731a0753c7d1.png"  width="24" height="24"/> | PostgreSQL | <img src="https://img.icons8.com/color/24/000000/postgreesql.png"/> |
-| Supabase | <img src="https://img.icons8.com/color/24/000000/supabase.png"/> | Styled Components | <img src="https://img.icons8.com/color/24/000000/styled-components.png"/> | Tailwind CSS | <img src="https://user-images.githubusercontent.com/45575016/229017483-ddcc2cec-ec52-4426-98cb-a9b768bd8cbe.png" width="24" height="24"/> |
+| Supabase | <img src="https://user-images.githubusercontent.com/45575016/229020563-5c9b1d9b-c046-4b00-89e8-5ada191ab972.png" width="24" height="24"/> | Styled Components | <img src="https://img.icons8.com/color/24/000000/styled-components.png"/> | Tailwind CSS | <img src="https://user-images.githubusercontent.com/45575016/229017483-ddcc2cec-ec52-4426-98cb-a9b768bd8cbe.png" width="24" height="24"/> |
 | Ruby | <img src="https://img.icons8.com/color/24/000000/ruby-programming-language.png"/> | Java | <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> | Python | <img src="https://img.icons8.com/color/24/000000/python.png"/> |
 | Jest | <img src="https://user-images.githubusercontent.com/45575016/229018068-b7cec32d-ff89-45f2-9b0c-98d7f80b58b3.png" width="24" height="24"/> | Cypress | <img src="https://user-images.githubusercontent.com/45575016/229017730-4ee5356d-5fae-43de-945f-a9b337aac8e3.png" width="24" height="24" /> | Playwright | <img src="https://user-images.githubusercontent.com/45575016/193695992-e7e993ef-043d-4885-b3d2-385e99513411.png" width="24" height="24"/> |
-| Netlify | <img src="https://img.icons8.com/color/24/000000/netlify.png"/> | Vercel | <img src="https://img.icons8.com/color/24/000000/vercel.png"/> | Heroku | <img src="https://img.icons8.com/color/24/000000/heroku.png"/> |
+| Netlify | <img src="https://user-images.githubusercontent.com/45575016/229020396-4fbd115d-cca4-4199-808d-1e64c008f6c8.png" width="24" height="24"/> | Vercel | <img src="https://user-images.githubusercontent.com/45575016/229020483-1204b7e1-c1f1-4d22-ab6d-2fbc2c46abea.png" width="24" height="24"/> | Heroku | <img src="https://img.icons8.com/color/24/000000/heroku.png"/> |
+
+
+
 
 
 </div>
