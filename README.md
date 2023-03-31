@@ -28,7 +28,7 @@
   
 ###### 👋 Welcome to my Github profile! ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
 
-- ###### 🚀 I am a Software Developer on a mission to create meaningful projects that uplift and inspire people. My previous projects, Paintbox and Alis Learning, are examples of my commitment to using technology to make a difference in people's lives. My latest project, Giggle Click, fetches data from a dad jokes API to add some laughter to people's day. 😂🌞
+- ###### 🚀 I am a Software Developer on a mission to create meaningful projects that uplift and inspire people. My previous projects, [Paintbox](https://github.com/fac24/paintbox) and [Alis Learning](https://github.com/fac24/alis-learning), are examples of my commitment to using technology to make a difference in people's lives. My latest project, [Giggle Click](https://github.com/PJSalter/giggle-click), fetches data from a dad jokes API to add some laughter to people's day. 😂🌞
 
 - ###### 💡 With my creativity and tech skills, I strive to make a positive impact in the world. I believe in the power of diversity and inclusivity in technology, and am committed to creating solutions that meet the needs of all users. 🌍🌈
 
