@@ -63,8 +63,6 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg)
-
   
   
 <h2>My Stats:</h2>
