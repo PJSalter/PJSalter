@@ -1,7 +1,14 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/45575016/228986751-30479368-93bb-456d-9cff-d41382230af6.png" alt="[Pjs_SOFTWARE_DEVELOPER_Logo" width="200"/>
+       <br>
+       <br>
+  <p align="center">     
+  <a href="https://www.linkedin.com/in/peter-james-salter/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+  </a>
+</p>
 </div>
-
+  
 
 ![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
   
