@@ -56,9 +56,7 @@
 | Ruby | <img src="https://img.icons8.com/color/24/000000/ruby-programming-language.png" width="30" height="30"/> | Java | <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" width="30" height="30"/> | Python | <img src="https://img.icons8.com/color/24/000000/python.png" width="30" height="30"/> |
 | Jest | <img src="https://user-images.githubusercontent.com/45575016/229018068-b7cec32d-ff89-45f2-9b0c-98d7f80b58b3.png" width="30" height="30"/> | Cypress | <img src="https://user-images.githubusercontent.com/45575016/229017730-4ee5356d-5fae-43de-945f-a9b337aac8e3.png" width="30" height="30" /> | Playwright | <img src="https://user-images.githubusercontent.com/45575016/193695992-e7e993ef-043d-4885-b3d2-385e99513411.png" width="30" height="30"/> |
 | Netlify | <img src="https://user-images.githubusercontent.com/45575016/229020396-4fbd115d-cca4-4199-808d-1e64c008f6c8.png" width="30" height="30"/> | Vercel | <img src="https://user-images.githubusercontent.com/45575016/229020483-1204b7e1-c1f1-4d22-ab6d-2fbc2c46abea.png" width="30" height="30"/> | Heroku | <img src="https://img.icons8.com/color/24/000000/heroku.png" width="30" height="30"/> |
-
-
-
+| Figma | <img src="https://user-images.githubusercontent.com/45575016/229115606-2b0d90b4-772f-416e-85cf-5d5f6e671136.png" width="30" height="30" /> | Vite | <img src="https://user-images.githubusercontent.com/45575016/229115814-a8298cd0-1092-4e77-af52-8d3cf2108b14.png" width="30" height="30" /> | Story Book | <img src="https://user-images.githubusercontent.com/45575016/229116016-12635838-38a0-4d9d-93da-48ffc4d3bf9c.png" width="30" height="30" /> |
 
 
 </div>
