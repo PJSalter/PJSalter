@@ -19,9 +19,7 @@
 
 ## Learning and Languages:
   
-  - ###### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme, based in London!
-  
-  - ###### 🧑‍🎓 🧑‍💻 Working on my Frontend development skills with HTML, CSS, JavaScript, typescript, React, next.js, styled-components.
+  ###### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme, based in London!
   
 
 | Skill | Technology | Skill | Technology | Skill | Technology |
