@@ -42,15 +42,19 @@
 </div>
      
 
-#### Welcome to my Github profile! ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
+ ###### 👋 Welcome to my Github profile! ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
 
-#### I am a Full Stack Developer who is passionate about creating meaningful projects that uplift and inspire people. With my creativity and tech skills, I strive to make a positive impact in the world. My latest projects, Paintbox and Alis Learning, are examples of my commitment to using technology to make a difference in people's lives.
+- ###### 🚀 I am a Software Developer on a mission to create meaningful projects that uplift and inspire people. My previous projects, Paintbox and Alis Learning, are examples of my commitment to using technology to make a difference in people's lives. My latest project, Giggle Click, fetches data from a dad jokes API to add some laughter to people's day. 😂🌞
 
-#### I am constantly expanding my knowledge and skills, always eager to learn new technologies and improve my current ones. Pair programming with like-minded coders is one of my favorite ways to network and enhance my skills.
+- ###### 💡 With my creativity and tech skills, I strive to make a positive impact in the world. I believe in the power of diversity and inclusivity in technology, and am committed to creating solutions that meet the needs of all users. 🌍🌈
 
-#### As a caring and compassionate individual, I believe in the power of empathy and open communication. I strive to be a supportive team member, always willing to lend a hand and work together towards a common goal.
+- ###### 🎓 I am constantly expanding my knowledge and skills, always eager to learn new technologies and improve my current ones. Pair programming with like-minded coders is one of my favorite ways to network and enhance my skills. 🤝👩‍💻
 
-#### Thank you for stopping by my profile. Let's collaborate and create something amazing together! 🧭 🌈 💻 🏆
+- ###### 🤝 As a caring and compassionate individual, I believe in the power of empathy and open communication. I strive to be a supportive team member, always willing to lend a hand and work together towards a common goal. 🤗💬
+
+- ###### 🌟 Let's collaborate and create something amazing together! Whether it's solving complex problems, designing user-friendly interfaces, or developing cutting-edge applications, I am ready to bring my unique perspective and positive energy to the table. 🧭🚀
+
+- ###### Thank you for visiting my profile. Let's connect and make a difference in the world! 🙏💻🏆
   
   
   ```js
