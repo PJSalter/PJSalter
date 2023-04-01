@@ -67,6 +67,9 @@
   
 <h2>My Stats:</h2>
 <p align="center">
+
+![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide=stars,contribs" width="500" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=merko&layout=compact" alt="TopLangs" width="400" />
   </p>
