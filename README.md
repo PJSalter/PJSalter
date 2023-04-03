@@ -16,8 +16,9 @@
 </p>
 </div>
   
+![glancing at the moon copy](https://user-images.githubusercontent.com/45575016/229394152-86e91492-961d-4e70-b244-a933469bf3e9.jpg)
 
-![pjs-glancing-at-the-moon2](https://user-images.githubusercontent.com/45575016/150718219-b10a5248-10ed-4254-bdcb-6fe1d008f2fa.jpg)
+
   
   <div align="center">
     
