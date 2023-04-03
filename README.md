@@ -15,12 +15,11 @@
   </a>
 </p>
 </div>
-  
-![glancing at the moon copy](https://user-images.githubusercontent.com/45575016/229394152-86e91492-961d-4e70-b244-a933469bf3e9.jpg)
 
 
-  
   <div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/45575016/229394152-86e91492-961d-4e70-b244-a933469bf3e9.jpg" alt="glancing at the moon " width="800"/>
     
   [![Codewars](https://www.codewars.com/users/PJSalter/badges/micro)](https://www.codewars.com/users/PJSalter)  ![Profile Views](https://komarev.com/ghpvc/?username=PJSalter&color=blueviolet&style=plastic)
 
