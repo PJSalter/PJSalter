@@ -44,7 +44,8 @@
 
 ## Learning and Languages:
   
-  ###### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme 2022, based in London!
+  
+  #### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme 2022, based in London!
   
 
 | Skill | Technology | Skill | Technology | Skill | Technology |
