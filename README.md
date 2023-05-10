@@ -44,7 +44,7 @@
 
 ## Learning and Languages:
   
-  #### 🔥 Currently building on my Java Software Development Skills 🔥
+  #### 🔥 Currently building on my Java Software Development Skills as Java Software Developer 🔥
   #### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme 2022, based in London!
   
 
