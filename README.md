@@ -84,7 +84,6 @@ int main() {
 
 ## Learning and Languages:
   
-  #### 🔥 Currently building on my Java Software Development Skills at Wiley Edge 🔥
   #### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme 2022, based in London!
   
 
