@@ -70,7 +70,7 @@
 <div align=center>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&&count_private=true&include_all_commits=true&theme=radical" width="500" />
 
- <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=radical&langs_count=10&layout=compact" />
+ <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJSalter&theme=radical&langs_count=10&layout=compact" />
    
 </div>
 
