@@ -26,19 +26,59 @@
 </div>
 
   
-###### 👋 Welcome to my Github profile! ![growlithe](https://user-images.githubusercontent.com/45575016/156458499-896aeb2e-b2b3-480d-8802-31336fc99f00.gif) 
+```cpp
+#include <iostream>
 
-- ###### 🚀 I am a Software Developer on a mission to create meaningful projects that uplift and inspire people. My previous projects, [Paintbox](https://github.com/fac24/paintbox) and [Alis Learning](https://github.com/fac24/alis-learning), are examples of my commitment to using technology to make a difference in people's lives. My latest project, [Giggle Click](https://github.com/PJSalter/giggle-click), fetches data from a dad jokes API to add some laughter to people's day. 😂🌞
+int main() {
+    // ASCII art rocket
+    std::cout << "           , " << std::endl;
+    std::cout << "          /," << std::endl;
+    std::cout << "         // " << std::endl;
+    std::cout << "      .  // " << std::endl;
+    std::cout << "      |\\//7 " << std::endl;
+    std::cout << "     /'.' ' " << std::endl;
+    std::cout << "    ||   | " << std::endl;
+    std::cout << "    ||   | " << std::endl;
+    std::cout << "    ||  .' " << std::endl;
+    std::cout << "  .`J`.' " << std::endl;
+    std::cout << " .'  | " << std::endl;
+    std::cout << "/  .  | " << std::endl;
+    std::cout << "'--|  | " << std::endl;
+    std::cout << "   |  | " << std::endl;
+    std::cout << "   |  | " << std::endl;
+    std::cout << "   |  | " << std::endl;
 
-- ###### 💡 With my creativity and tech skills, I strive to make a positive impact in the world. I believe in the power of diversity and inclusivity in technology, and am committed to creating solutions that meet the needs of all users. 🌍🌈
+    // Fun border characters
+    char borderChar = '*';
+    int borderLength = 40;
 
-- ###### 🎓 I am constantly expanding my knowledge and skills, always eager to learn new technologies and improve my current ones. Pair programming with like-minded coders is one of my favorite ways to network and enhance my skills. 🤝👩‍💻
+    // Print the top border
+    for (int i = 0; i < borderLength; ++i) {
+        std::cout << borderChar;
+    }
+    std::cout << std::endl;
 
-- ###### 🤝 As a caring and compassionate individual, I believe in the power of empathy and open communication. I strive to be a supportive team member, always willing to lend a hand and work together towards a common goal. 🤗💬
+    std::cout << borderChar << "🚀 Thrilling journey: Creating meaningful projects and exciting games!" << borderChar << std::endl;
+    std::cout << borderChar << "🎓 Training in C++, Java, React with TypeScript at Wiley Edge." << borderChar << std::endl;
+    std::cout << borderChar << "🌟 Mission: Ignite imaginations, bring people together for epic adventures!" << borderChar << std::endl;
+    std::cout << borderChar << "----------------------------------------------" << borderChar << std::endl;
+    std::cout << borderChar << "💡 Tech that connects. Diversity and inclusivity fuel my code. Let's make magic! 🌍🌈" << borderChar << std::endl;
+    std::cout << borderChar << "🤗 Empathy is my superpower, open communication is my strategy. Team up for success! 💬" << borderChar << std::endl;
+    std::cout << borderChar << "----------------------------------------------" << borderChar << std::endl;
+    std::cout << borderChar << "🌠 Let's Level Up Together" << borderChar << std::endl;
+    std::cout << borderChar << "Join me. Code the universe, conquer challenges, create legendary games! 🚀🎮" << borderChar << std::endl;
+    std::cout << borderChar << "----------------------------------------------" << borderChar << std::endl;
+    std::cout << borderChar << "🙌 Thanks for visiting! Let's connect, collaborate, level up game development! 🏆🎮" << borderChar << std::endl;
 
-- ###### 🌟 Let's collaborate and create something amazing together! Whether it's solving complex problems, designing user-friendly interfaces, or developing cutting-edge applications, I am ready to bring my unique perspective and positive energy to the table. 🧭🚀
+    // Print the bottom border
+    for (int i = 0; i < borderLength; ++i) {
+        std::cout << borderChar;
+    }
+    std::cout << std::endl;
 
-- ###### Thank you for visiting my profile. Let's connect and make a difference in the world! 🙏💻🏆
+    return 0;
+}
+```
 
  <div align="center">
 
