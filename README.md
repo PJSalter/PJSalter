@@ -105,7 +105,7 @@ int main() {
 <p align="center">
 <h2>My Stats:</h2>
 
-![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align=center>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&&count_private=true&include_all_commits=true&theme=radical" width="500" />
@@ -118,9 +118,6 @@ int main() {
 </p>
 
 
-<div align="center">
-
-  
   ```ts
   
   const myInterests = (): string[] => {
@@ -145,7 +142,6 @@ console.log(myInterests());
   
   ```
   
-  </div>
   
 ## 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/peter-salter-627769106/) and [email](mailto:psalter88@googlemail.com) 📧
 
