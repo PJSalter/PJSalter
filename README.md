@@ -77,16 +77,16 @@
   
 </div>
   
-  ```js
+  ```ts
   
-     const myInterests = () => {
-     let hobbies = ['Painting🎨', 'Adventurous walks🥾', 'Coding🧩', 'Gaming🎮', 'comics📚', 'Movies📽️', 'Cat😻'];
-     let result = hobbies.flatMap(inspire => [inspire, '🔥']);
-     result.push('🐝');
-     return result;
-     };
-  
-  console.log(myInterests());
+  const myInterests = (): string[] => {
+  let hobbies: string[] = ['Painting🎨', 'Adventurous walks🥾', 'Coding🧩', 'Gaming🎮', 'comics📚', 'Movies📽️', 'Cat😻'];
+  let result: string[] = hobbies.flatMap((inspire: string) => [inspire, '🔥']);
+  result.push('🐝');
+  return result;
+};
+
+console.log(myInterests());
   
   // result : [
   'Painting🎨',          '🔥',
