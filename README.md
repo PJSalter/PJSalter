@@ -28,28 +28,34 @@
   
 ```cpp
 #include <iostream>
+#include <thread>
+#include <chrono>
+
+// Function to print a line with a colored background
+void printColoredLine(const std::string& text, int delay_ms, char color) {
+    std::this_thread::sleep_for(std::chrono::milliseconds(delay_ms));
+    std::cout << "\x1B[48;5;" << static_cast<int>(color) << "m"; // Set background color
+    std::cout << text << "\x1B[0m" << std::endl; // Reset colors
+}
 
 int main() {
     // ASCII art rocket
-    std::cout << "           , " << std::endl;
-    std::cout << "          /," << std::endl;
-    std::cout << "         // " << std::endl;
-    std::cout << "      .  // " << std::endl;
-    std::cout << "      |\\//7 " << std::endl;
-    std::cout << "     /'.' ' " << std::endl;
-    std::cout << "    ||   | " << std::endl;
-    std::cout << "    ||   | " << std::endl;
-    std::cout << "    ||  .' " << std::endl;
-    std::cout << "  .`J`.' " << std::endl;
-    std::cout << " .'  | " << std::endl;
-    std::cout << "/  .  | " << std::endl;
-    std::cout << "'--|  | " << std::endl;
-    std::cout << "   |  | " << std::endl;
-    std::cout << "   |  | " << std::endl;
-    std::cout << "   |  | " << std::endl;
+    std::string rocket[10] = {
+        "         |  ",
+        "        / \\  ",
+        "       / _ \\  ",
+        "      | (_) |  ",
+        "      |  _  |  ",
+        "     /| | | |\\  ",
+        "    / | | | | \\  ",
+        "   |  | | | |  |  ",
+        "   |__|_|_|_|__|  ",
+        "      /_/ \\_\\  "
+    };
 
-    // Fun border characters
+    // Fun border characters and colors
     char borderChar = '*';
+    char borderColor = 226; // Yellow
     int borderLength = 40;
 
     // Print the top border
@@ -58,17 +64,38 @@ int main() {
     }
     std::cout << std::endl;
 
-    std::cout << borderChar << "🚀 Thrilling journey: Creating meaningful projects and exciting games!" << borderChar << std::endl;
-    std::cout << borderChar << "🎓 Training in C++, Java, React with TypeScript at Wiley Edge." << borderChar << std::endl;
-    std::cout << borderChar << "🌟 Mission: Ignite imaginations, bring people together for epic adventures!" << borderChar << std::endl;
-    std::cout << borderChar << "----------------------------------------------" << borderChar << std::endl;
-    std::cout << borderChar << "💡 Tech that connects. Diversity and inclusivity fuel my code. Let's make magic! 🌍🌈" << borderChar << std::endl;
-    std::cout << borderChar << "🤗 Empathy is my superpower, open communication is my strategy. Team up for success! 💬" << borderChar << std::endl;
-    std::cout << borderChar << "----------------------------------------------" << borderChar << std::endl;
-    std::cout << borderChar << "🌠 Let's Level Up Together" << borderChar << std::endl;
-    std::cout << borderChar << "Join me. Code the universe, conquer challenges, create legendary games! 🚀🎮" << borderChar << std::endl;
-    std::cout << borderChar << "----------------------------------------------" << borderChar << std::endl;
-    std::cout << borderChar << "🙌 Thanks for visiting! Let's connect, collaborate, level up game development! 🏆🎮" << borderChar << std::endl;
+    // Print the rocket with animation
+    for (const std::string& line : rocket) {
+        printColoredLine(borderChar + line + borderChar, 100, borderColor);
+    }
+
+    // Print your messages with different colors
+    char messageColor = 45; // Purple
+    printColoredLine(borderChar + "🚀 Thrilling journey: Creating meaningful projects and exciting games!" + borderChar, 0, messageColor);
+    printColoredLine(borderChar + "🎓 Training in C++, Java, React with TypeScript at Wiley Edge." + borderChar, 0, messageColor);
+    printColoredLine(borderChar + "🌟 Mission: Ignite imaginations, bring people together for epic adventures!" + borderChar, 0, messageColor);
+
+    // Print separator
+    for (int i = 0; i < borderLength; ++i) {
+        std::cout << borderChar;
+    }
+    std::cout << std::endl;
+
+    // Print your additional messages with different colors
+    char additionalMessageColor = 33; // Blue
+    printColoredLine(borderChar + "💡 Tech that connects. Diversity and inclusivity fuel my code. Let's make magic! 🌍🌈" + borderChar, 0, additionalMessageColor);
+    printColoredLine(borderChar + "🤗 Empathy is my superpower, open communication is my strategy. Team up for success! 💬" + borderChar, 0, additionalMessageColor);
+
+    // Print separator
+    for (int i = 0; i < borderLength; ++i) {
+        std::cout << borderChar;
+    }
+    std::cout << std::endl;
+
+    // Print the final message with a different color
+    char finalMessageColor = 202; // Orange
+    printColoredLine(borderChar + "🌠 Let's Level Up Together" + borderChar, 0, finalMessageColor);
+    printColoredLine(borderChar + "Join me. Code the universe, conquer challenges, create legendary games! 🚀🎮" + borderChar, 0, finalMessageColor);
 
     // Print the bottom border
     for (int i = 0; i < borderLength; ++i) {
@@ -77,6 +104,8 @@ int main() {
     std::cout << std::endl;
 
     return 0;
+}
+
 }
 ```
 
