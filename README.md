@@ -72,7 +72,7 @@ int main() {
     // Print your messages with different colors
     char messageColor = 45; // Purple
     printColoredLine(borderChar + "🚀 Thrilling journey: Creating meaningful projects and exciting games!" + borderChar, 0, messageColor);
-    printColoredLine(borderChar + "🎓 Training in C++, Java, React with TypeScript at Wiley Edge." + borderChar, 0, messageColor);
+    printColoredLine(borderChar + "🎓 Training in C++, Java, React with TypeScript and JavaScript at Wiley Edge." + borderChar, 0, messageColor);
     printColoredLine(borderChar + "🌟 Mission: Ignite imaginations, bring people together for epic adventures!" + borderChar, 0, messageColor);
 
     // Print separator
