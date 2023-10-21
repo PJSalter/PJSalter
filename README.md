@@ -50,6 +50,8 @@ int main() {
  <div align="center">
 
 ## Learning and Languages:
+
+## Completed a variety of training while working with Wiley Edge, this included Full Stack Software Development using Java with Spring Boot and Rest API's and using JUnit5 for testing and JPA with Hibernate for connection witi MySQL database, C++ Software Application Development, Java Application Development and React Front end Development using Jest for testing and TailwindCss for styling 
   
   #### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme 2022, based in London!
   
