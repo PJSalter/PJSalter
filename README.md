@@ -51,9 +51,23 @@ int main() {
 
 ## Learning and Languages:
 
-###### Completed a variety of training while working with Wiley Edge, this included Full Stack Software Development using Java with Spring Boot and Rest API's and using JUnit5 for testing and JPA with Hibernate for connection witi MySQL database, C++ Software Application Development, Java Application Development and React Front end Development using Jest for testing and TailwindCss for styling 
-  
-  ###### Graduated from [Founders and Coders](https://www.foundersandcoders.com/) (FAC 24 Cohort) Full Stack Skills Boot Camp programme 2022, based in London!
+📚 Founders and Coders Bootcamp:
+
+As the world was reshaping around me, I took a leap of faith and joined the highly selective [Founders and Coders](https://www.foundersandcoders.com/) Full Stack Skills Bootcamp, graduating from FAC 24 Cohort in 2022, based in London. This intensive program provided a structured path for my passion, equipping me with the skills I needed to excel in Full Stack Development. 💼
+
+💡 Experience as Full Stack Developer:
+
+Working at Wiley Edge, I honed my skills in Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases. I've put these skills into action through recent projects, crafted while working at Wiley Edge, which allowed me to deepen my knowledge and build practical experience.
+
+Along this journey, I also ventured into C++ and Java Application Development projects, and the art of crafting React front-ends using Jest for testing and TailwindCSS for styling. 🛠️
+
+🎨 Art Meets Code:
+
+My journey is a fusion of my artistic background—a BA HONS in Illustration and Visual Media from the University of the Arts London—and my newfound coding expertise. Today, I seamlessly blend artistic creativity with the precision of programming, crafting meaningful and innovative projects that harness technology for positive change. 🌟
+
+🤝 Open to Collaboration:
+
+Ready to collaborate and transform ideas into reality through code. Reach out anytime—I'm eager to connect with like-minded professionals. 🤗
   
 
 | Skill | Technology | Skill | Technology | Skill | Technology |
