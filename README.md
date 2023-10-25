@@ -16,7 +16,6 @@
 </p>
 </div>
 
-
   <div align="center">
   
   <img src="https://user-images.githubusercontent.com/45575016/229394152-86e91492-961d-4e70-b244-a933469bf3e9.jpg" alt="glancing at the moon " width="800"/>
@@ -25,6 +24,19 @@
 
 </div>
 
+# 👩‍💻 Full Stack Developer | 🎨 Artistic Innovator
+
+🌟 Passion-driven coder with a blend of artistry and precision.
+
+🚀 Graduate of Founders and Coders, FAC 24 Cohort (2022).
+
+🛠️ Skills: Java, Spring Boot, React, JavaScript, Next.js, C++, MySQL, and more.
+
+🔧 Trained with Wiley Edge in Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases.
+
+🤖 Crafting tech for positive change through creative projects.
+
+🤝 Open to collaborative coding adventures. Let's connect! 🚀
   
 ```cpp
 #include <iostream>
@@ -48,20 +60,6 @@ int main() {
 ```
 
  <div align="center">
-
-# 👩‍💻 Full Stack Developer | 🎨 Artistic Innovator
-
-🌟 Passion-driven coder with a blend of artistry and precision.
-
-🚀 Graduate of Founders and Coders, FAC 24 Cohort (2022).
-
-🛠️ Skills: Java, Spring Boot, React, JavaScript, Next.js, C++, MySQL, and more.
-
-🔧 Trained with Wiley Edge in Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases.
-
-🤖 Crafting tech for positive change through creative projects.
-
-🤝 Open to collaborative coding adventures. Let's connect! 🚀
 
 ## Learning and Languages:
   
