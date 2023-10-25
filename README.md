@@ -49,27 +49,22 @@ int main() {
 
  <div align="center">
 
+# 👩‍💻 Full Stack Developer | 🎨 Artistic Innovator
+
+🌟 Passion-driven coder with a blend of artistry and precision.
+
+🚀 Graduate of Founders and Coders, FAC 24 Cohort (2022).
+
+🛠️ Skills: Java, Spring Boot, React, JavaScript, Next.js, C++, MySQL, and more.
+
+🔧 Trained with Wiley Edge in Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases.
+
+🤖 Crafting tech for positive change through creative projects.
+
+🤝 Open to collaborative coding adventures. Let's connect! 🚀
+
 ## Learning and Languages:
-
-📚 Founders and Coders Bootcamp:
-
-As the world was reshaping around me, I took a leap of faith and joined the highly selective [Founders and Coders](https://www.foundersandcoders.com/) Full Stack Skills Bootcamp, graduating from FAC 24 Cohort in 2022, based in London. This intensive program provided a structured path for my passion, equipping me with the skills I needed to excel in Full Stack Development. 💼
-
-💡 Experience as Full Stack Developer:
-
-Working at Wiley Edge, I honed my skills in Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases. I've put these skills into action through recent projects, crafted while working at Wiley Edge, which allowed me to deepen my knowledge and build practical experience.
-
-Along this journey, I also ventured into C++ and Java Application Development projects, and the art of crafting React front-ends using Jest for testing and TailwindCSS for styling. 🛠️
-
-🎨 Art Meets Code:
-
-My journey is a fusion of my artistic background—a BA HONS in Illustration and Visual Media from the University of the Arts London—and my newfound coding expertise. Today, I seamlessly blend artistic creativity with the precision of programming, crafting meaningful and innovative projects that harness technology for positive change. 🌟
-
-🤝 Open to Collaboration:
-
-Ready to collaborate and transform ideas into reality through code. Reach out anytime—I'm eager to connect with like-minded professionals. 🤗
   
-
 | Skill | Technology | Skill | Technology | Skill | Technology |
 |-------|------------|-------|------------|-------|------------|
 | HTML5 | <img src="https://img.icons8.com/color/24/000000/html-5--v1.png" width="30" height="30"/> | CSS3 | <img src="https://img.icons8.com/color/24/000000/css3.png" width="30" height="30"/> | JavaScript | <img src="https://img.icons8.com/color/24/000000/javascript--v1.png" width="30" height="30"/> |
