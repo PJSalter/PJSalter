@@ -32,7 +32,7 @@
 
 🛠️ Skills: Java, Spring Boot, React, JavaScript, Next.js, C++, MySQL, and more.
 
-🔧 Trained with Wiley Edge in Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases.
+🔧 Worked & Trained with [Wiley Edge](https://www.wiley.com/edge/) 2023 in Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases.
 
 🤖 Crafting tech for positive change through creative projects.
 
