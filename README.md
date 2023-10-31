@@ -28,7 +28,7 @@
 
 🌟 Passion-driven coder with a blend of artistry and precision.
 
-🚀 Graduate of [Founders and Coders](https://www.foundersandcoders.com/), FAC 24 Cohort (2022).
+🚀 Graduate of [Founders and Coders](https://www.foundersandcoders.com/) Full Stack Skills Bootcamp, FAC 24 Cohort (2022), London.
 
 🛠️ Skills: Java, Spring Boot, React, JavaScript, Next.js, C++, MySQL, and more.
 
