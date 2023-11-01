@@ -6,9 +6,6 @@
 </a>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/45575016/228986751-30479368-93bb-456d-9cff-d41382230af6.png" alt="[Pjs_SOFTWARE_DEVELOPER_Logo" width="200"/>
-       <br>
-       <br>
   <p align="center">     
   <a href="https://www.linkedin.com/in/peter-james-salter/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
@@ -27,7 +24,7 @@
 <div style="text-align: left;">
 
 <!-- My Logo image aligned to the right -->
-<img width="55%" height="25%" align="right" alt="PJ-Full-Stack-Developer" src="https://github.com/PJSalter/PJSalter/assets/45575016/6105e363-8141-4f01-9fb5-6ea54f4d183e" />
+<img width="50%" height="25%" align="right" alt="PJ-Full-Stack-Developer" src="https://github.com/PJSalter/PJSalter/assets/45575016/6105e363-8141-4f01-9fb5-6ea54f4d183e" />
 
 # 👩‍💻 Full Stack Developer | 🎨 Artistic Innovator
 
