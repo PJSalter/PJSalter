@@ -15,7 +15,7 @@
   <a href="https://instagram.com/p_j_art" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <!-- My Discord -->
+  <!-- My Discord fix -->
   <a href="https://discord.gg/pjsalter" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a> 
