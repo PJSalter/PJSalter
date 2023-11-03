@@ -92,6 +92,8 @@ int main() {
 <p align="center">
 <h2>My Stats:</h2>
 
+![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg)
+
 <!-- ![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align=center>
