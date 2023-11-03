@@ -25,9 +25,9 @@
 </div>
 
 <!-- My Logo image aligned to the right -->
-<img width="40%" height="25%" align="right" alt="PJ-Full-Stack-Developer" src="https://github.com/PJSalter/PJSalter/assets/45575016/6105e363-8141-4f01-9fb5-6ea54f4d183e" />
+<img width="35%" height="25%" align="right" alt="PJ-Full-Stack-Developer" src="https://github.com/PJSalter/PJSalter/assets/45575016/6105e363-8141-4f01-9fb5-6ea54f4d183e" />
 
-# 👩‍💻 Full Stack Developer | 🎨 Artistic Innovator
+## 👩‍💻 Full Stack Developer | 🎨 Artistic Innovator
 
 🌟 Passion-driven coder with a blend of artistry and precision.
 
