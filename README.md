@@ -7,12 +7,18 @@
 
 <div id="header" align="center">
   <p align="center">     
+  <!-- My LinkedIn -->
   <a href="https://www.linkedin.com/in/peter-james-salter/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
+   <!-- My Instagram -->
   <a href="https://instagram.com/p_j_art" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+  <!-- My Discord -->
+  <a href="https://discordapp.com/PJSalter/1111567875946315786" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
 </p>
 </div>
 
@@ -68,10 +74,6 @@ int main() {
 ## Learning and Languages:
 
 
-
-
-
-
 | Skill | Technology | Skill | Technology | Skill | Technology |
 |-------|------------|-------|------------|-------|------------|
 | HubSpot | <img src="https://github.com/PJSalter/PJSalter/assets/45575016/f033efc6-21ec-4399-8758-5b389ded3a3f" width="30" height="30"/> | C++ | <img src="https://github.com/PJSalter/PJSalter/assets/45575016/ed954684-cd6c-43c0-b354-10a23460ef00" width="30" height="30"/> | React.js | <img src="https://github.com/PJSalter/PJSalter/assets/45575016/784023a1-0b64-4968-b6ad-f23e011a4b23" width="30" height="30"/> | 
@@ -91,10 +93,6 @@ int main() {
   
 <p align="center">
 <h2>My Stats:</h2>
-
-![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg)
-
-<!-- ![Snake animation](https://github.com/PJSalter/PJSalter/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align=center>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PJSalter&show_icons=true&&count_private=true&include_all_commits=true&theme=radical" width="500" />
