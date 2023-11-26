@@ -43,7 +43,7 @@
 
 🔧 Worked & Trained at [Wiley Edge](https://www.wiley.com/edge/) (2023) in React, JavaScript, Jest, C++, Java, Spring Boot, REST APIs, JUnit5, and JPA with Hibernate, establishing connections with MySQL databases.
 
-Currently Developing CMS within HubSpot and using AWS for work on adding Lambda's, permissions for security in organisation of roles and extending the database for more users to set up details on this superior cloud-base service as well as creating sufficient Technical Handover documentation.
+Currently Developing CMS within HubSpot and using AWS for work related tasks on adding Lambda's, permissions for security in organisation of roles and extending the database for more users to set up details on this superior cloud-base service as well as creating sufficient Technical Handover documentation.
 
 🤖 Crafting tech for positive change through creative projects.
 
